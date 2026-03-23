@@ -1,0 +1,50 @@
+.fitlife-footer-section {
+    padding: 60px 8% 20px;
+    background: #0a0a0a;
+    text-align: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.fitlife-footer-content h2 {
+    font-size: 2rem;
+    font-weight: 800;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.fitlife-footer-content h2 span {
+    color: #00f260;
+}
+
+.fitlife-footer-socials {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.fitlife-footer-socials a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #151515;
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.fitlife-footer-socials a:hover {
+    background: #00f260;
+    color: black;
+    transform: translateY(-3px);
+}
+
+.fitlife-footer-copyright {
+    margin-top: 40px;
+    color: #555;
+    font-size: 0.9rem;
+}

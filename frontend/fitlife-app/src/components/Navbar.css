@@ -1,0 +1,74 @@
+.fitlife-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 8%;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background: rgba(10, 10, 10, 0.8);
+  backdrop-filter: blur(10px);
+  z-index: 1000;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.fitlife-navbar-logo a {
+  font-size: 28px;
+  font-weight: 800;
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: white;
+}
+
+.fitlife-navbar-highlight {
+  color: #00f260;
+}
+
+.fitlife-navbar-links {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+.fitlife-navbar-links a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.fitlife-navbar-links a:hover {
+  color: #00f260;
+  text-shadow: 0 0 10px #00f260;
+}
+
+.fitlife-navbar-btn {
+  padding: 10px 25px;
+  background: #00f260;
+  color: black !important;
+  border-radius: 30px;
+  font-weight: 700 !important;
+  box-shadow: 0 0 15px rgba(0, 242, 96, 0.4);
+}
+
+.fitlife-navbar-btn:hover {
+  background: white;
+  box-shadow: 0 0 25px white;
+}
+
+.fitlife-navbar-hamburger {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .fitlife-navbar-links {
+    display: none;
+  }
+  .fitlife-navbar-hamburger {
+    display: block;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+  }
+}

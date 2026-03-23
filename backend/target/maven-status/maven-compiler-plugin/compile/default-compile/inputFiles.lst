@@ -1,0 +1,16 @@
+D:\fit life pro\backend\src\main\java\com\fitlife\controllers\AuthController.java
+D:\fit life pro\backend\src\main\java\com\fitlife\repositories\DailyLogRepository.java
+D:\fit life pro\backend\src\main\java\com\fitlife\repositories\TrainerDetailRepository.java
+D:\fit life pro\backend\src\main\java\com\fitlife\models\Role.java
+D:\fit life pro\backend\src\main\java\com\fitlife\models\User.java
+D:\fit life pro\backend\src\main\java\com\fitlife\models\DailyLog.java
+D:\fit life pro\backend\src\main\java\com\fitlife\controllers\ClientController.java
+D:\fit life pro\backend\src\main\java\com\fitlife\repositories\UserRepository.java
+D:\fit life pro\backend\src\main\java\com\fitlife\services\DailyLogService.java
+D:\fit life pro\backend\src\main\java\com\fitlife\models\ClientTrainerMapping.java
+D:\fit life pro\backend\src\main\java\com\fitlife\FitLifeApplication.java
+D:\fit life pro\backend\src\main\java\com\fitlife\models\TrainerDetail.java
+D:\fit life pro\backend\src\main\java\com\fitlife\services\TrainerService.java
+D:\fit life pro\backend\src\main\java\com\fitlife\controllers\TrainerController.java
+D:\fit life pro\backend\src\main\java\com\fitlife\repositories\ClientTrainerMappingRepository.java
+D:\fit life pro\backend\src\main\java\com\fitlife\services\UserService.java
